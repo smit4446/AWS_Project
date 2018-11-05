@@ -1,0 +1,5 @@
+*
+
+!.gitignore
+!*aws-cloudformation-user-guide\doc_source\aws-attribute-dependson.md
+!*aws-doc-sdk-examples\CONTRIBUTING.md
