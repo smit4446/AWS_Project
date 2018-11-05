@@ -1,0 +1,5 @@
+*
+!.gitignore
+!.gitmodules
+!*/aws-cloudformation-user-guide\doc_source
+!*/aws-elastic-beanstalk-developer-guide\doc_source

@@ -1,0 +1,6 @@
+[submodule "aws-cloudformation-user-guide"]
+	path = aws-cloudformation-user-guide
+	url = https://github.com/smit4446/aws-cloudformation-user-guide.git
+[submodule "aws-elastic-beanstalk-developer-guide"]
+	path = aws-elastic-beanstalk-developer-guide
+	url = https://github.com/smit4446/aws-elastic-beanstalk-developer-guide.git
